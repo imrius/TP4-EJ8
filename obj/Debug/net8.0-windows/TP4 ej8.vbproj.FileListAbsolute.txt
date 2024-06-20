@@ -1,0 +1,16 @@
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\bin\Debug\net8.0-windows\TP4 ej8.exe
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\bin\Debug\net8.0-windows\TP4 ej8.deps.json
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\bin\Debug\net8.0-windows\TP4 ej8.runtimeconfig.json
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\bin\Debug\net8.0-windows\TP4 ej8.dll
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\bin\Debug\net8.0-windows\TP4 ej8.pdb
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\obj\Debug\net8.0-windows\TP4_ej8.Form1.resources
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\obj\Debug\net8.0-windows\TP4 ej8.vbproj.GenerateResource.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\obj\Debug\net8.0-windows\TP4 ej8.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\obj\Debug\net8.0-windows\TP4 ej8.AssemblyInfoInputs.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\obj\Debug\net8.0-windows\TP4 ej8.AssemblyInfo.vb
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\obj\Debug\net8.0-windows\TP4 ej8.vbproj.CoreCompileInputs.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\obj\Debug\net8.0-windows\TP4 ej8.dll
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\obj\Debug\net8.0-windows\refint\TP4 ej8.dll
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\obj\Debug\net8.0-windows\TP4 ej8.pdb
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\obj\Debug\net8.0-windows\TP4 ej8.genruntimeconfig.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\TP4 EJ1\TP4 ej8\obj\Debug\net8.0-windows\ref\TP4 ej8.dll
